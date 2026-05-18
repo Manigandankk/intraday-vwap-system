@@ -1,4 +1,4 @@
-# intraday-vwap-system
+# quant-vwap-mean-reversion
 The project is designed for Intraday VWAP Mean Reversion Strategy with Walk-Forward Optimization and Live Signal Engine
 
 Can intraday VWAP mean reversion generate alpha in BTCUSDT 5m data?
